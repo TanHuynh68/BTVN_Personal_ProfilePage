@@ -3,8 +3,8 @@
     {
       "name": "Portfolio Website",
       "description": "A personal portfolio website to showcase my projects and skills.",
-      "github_url": "https://github.com/username/portfolio-website",
-      "vercel_url": "https://portfolio-website.vercel.app",
+      "github_url": "https://github.com/TanHuynh68/BTVN_Personal_ProfilePage",
+      "vercel_url": "https://btvn-personal-profile-page-6rm29iy68-tanhuynh68s-projects.vercel.app",
       "technologies": ["Next.js", "Tailwind CSS", "Vercel"]
    
     },
