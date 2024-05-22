@@ -19,7 +19,7 @@ const Projects = () => {
   }, []);
 
   return (
-    <div className="container mx-auto p-4">
+    <div id='projects' className="container mx-auto p-4">
       <h1 className="text-2xl font-bold mb-4">My Projects</h1>
       {projects.map((project, index) => (
         <div key={index} className="border rounded-lg p-4 shadow-md mb-4">

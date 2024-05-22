@@ -4,7 +4,7 @@
       "name": "Portfolio Website",
       "description": "A personal portfolio website to showcase my projects and skills.",
       "github_url": "https://github.com/TanHuynh68/BTVN_Personal_ProfilePage",
-      "vercel_url": "https://btvn-personal-profile-page-6rm29iy68-tanhuynh68s-projects.vercel.app",
+      "vercel_url": "",
       "technologies": ["Next.js", "Tailwind CSS", "Vercel"]
    
     },
@@ -12,7 +12,7 @@
       "name": "Todo list",
       "description": "An e-commerce platform with a variety of products and a user-friendly interface.",
       "github_url": "https://github.com/davidnguyen27/todoList",
-      "vercel_url": "https://todolist-group2.vercel.app/",
+      "vercel_url": "https://todolist-group2.vercel.app",
       "technologies": ["React", "Typescript", "Vercel"]
      
     }
