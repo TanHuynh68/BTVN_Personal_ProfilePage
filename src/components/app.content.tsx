@@ -1,3 +1,4 @@
+import Image from "next/image";
 const Content = () => {
     return (
         <div className="p-4">
