@@ -1,6 +1,6 @@
 'use client'
 import React, { useEffect, useState } from 'react';
-import projectsData from '../app/data/project.json'; // Đường dẫn tới file JSON
+import projectsData from '../components/data/project.json'; // Đường dẫn tới file JSON
 
 // Định nghĩa interface cho đối tượng dự án
 interface Project {
